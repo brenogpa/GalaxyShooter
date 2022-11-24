@@ -2,9 +2,9 @@
 
 You can test it right [HERE](https://brenogpa.itch.io/galaxy-shooter)
 
-Hey there! This project was developed in the Unity game engine with the purpose of studying game programming logic!
+Hey there! This project was developed on Unity game engine with the purpose of studying game programming logic!
 
- ![Home Screen](https://github.com/brenogpa/GalaxyShooter/blob/master/screenshot.png)
+ ![Home Screen](https://raw.githubusercontent.com/brenogpa/GalaxyShooter/main/screenshot.png)
 
 
 ## Technology 
